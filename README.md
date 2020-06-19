@@ -1,7 +1,7 @@
 El repositorio esta organizado de la siguiente forma: 
 
-1. En la carpeta [concepts](\concepts) encontramos pequeñas aplicaciones que sirven para repasar y dar luz sobre algunos de los conceptos: recursos, endpoints, y metodos de comunicación. 
-2. La carpeta secureapp ejemplifica los metodos anteriores y muestra una implementación completa que además incorpora un sistema de autentificación. 
+1. En la carpeta [concepts](concepts) encontramos pequeñas aplicaciones que sirven para repasar y dar luz sobre algunos de los conceptos: recursos, endpoints, y metodos de comunicación. 
+2. La carpeta [secureapp](secureapp) ejemplifica los metodos anteriores y muestra una implementación completa que además incorpora un sistema de autentificación. 
 3. Carpetas que contienen una app con sus metodos de despliegue y archivos adicionales, los pasos respectivos para desplegar estás apps son:
    1. Mediante [Git](gitway): 
       1. heroku login
