@@ -13,7 +13,7 @@ El repositorio esta organizado de la siguiente forma:
       2. heroku create {appname}
       3. heroku container:push web --app {appname} (desde la carpeta que contiene el dockerfile y sus dependencias)
       4. heroku container:release web --app {appname}
-   3. Agregamos Dynos a las apps: 
+   3. Agregamos [Dynos](https://www.heroku.com/dynos) a las apps: 
       1. heroku ps:scale web=1 --app {appname} **FREEE**
 
 En ambos casos se debe poseer  una cuenta en [Heroku](https://www.heroku.com/) y descargar el CLI.
