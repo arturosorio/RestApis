@@ -18,7 +18,7 @@ El repositorio esta organizado de la siguiente forma:
 
 En ambos casos se debe poseer  una cuenta en [Heroku](https://www.heroku.com/) y descargar el CLI.
 
-Para probar localmente, tenemos el archivo de [dependencias](requirements.txt). 
+Para probar localmente podemos crear entornos virtuales usando el archivo de [dependencias](requirements.txt). 
 
 Con virtualenv (Windows):
 
